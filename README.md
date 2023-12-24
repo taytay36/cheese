@@ -1,0 +1,1 @@
+https://weirdas.vercel.app/
